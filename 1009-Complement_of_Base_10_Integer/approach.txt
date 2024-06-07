@@ -1,0 +1,3 @@
+Approach to solve it is to prepare a mask and use the AND logic gate, OR logic gate and NOT gate properties in the question to return compliment as ~n is 2's compliment of n and its doing & with mask will further on find the correct compliment by nullifying the one set bit to left of number and the 32nd bit that is making the number negative. This is faster than the math approach mentioned below it because bit manipulation is better understood by computer so is much faster.
+
+See these videos to know more- https://www.youtube.com/watch?v=nKzy4s4sI-4 & https://www.youtube.com/watch?v=pXIfEklKsOQ
