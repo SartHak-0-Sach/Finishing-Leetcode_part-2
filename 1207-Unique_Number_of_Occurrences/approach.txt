@@ -1,0 +1,1 @@
+Use nested loops to check each count, use unordered map and unordered set to check count in 2 single loops
